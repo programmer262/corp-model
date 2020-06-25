@@ -1,0 +1,82 @@
+        #welcome {
+            color: rgb(0, 248, 194);
+            background-color: whitesmoke;
+            text-align: center;
+            font-size: 40px;
+            font-weight: lighter;
+            padding: 200px;
+            top: 100px;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            margin-top: -10px;
+            text-shadow: grey 2px 2px;
+            margin-left: -30px;
+            margin-right: -50px;
+            background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/types-of-flowers-1579719085.jpg?crop=1.00xw:0.757xh;0,0.173xh&resize=980:*)
+        }
+        
+        body {
+            background-color: lightcyan;
+        }
+        
+        #frfQ {
+            text-align: center;
+            font-weight: lighter;
+            font-size: 20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            background-color: black;
+            color: white;
+            padding: 10px;
+        }
+        
+        #zr {
+            margin-top: -40px;
+            margin-left: -30px;
+            margin-right: -50px;
+        }
+        
+        .pok {
+            background-color: lightcyan;
+            scrollbar-base-color: chartreuse;
+            color: darkgray;
+            padding: 50px;
+            border-color: black;
+            border-style: double;
+            border-radius: 10px;
+            margin-top: -40px;
+            margin-left: -10px;
+            margin-right: -50px;
+        }
+        
+        .pok:hover {
+            background-color: rgb(255, 199, 16);
+        }
+        
+        #navbar {
+            background-color: gainsboro;
+            padding: 10px;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            left: 0;
+        }
+        
+        a {
+            overflow: hidden;
+            color: cornsilk;
+            float: left;
+            padding: 10px;
+            text-decoration: none;
+        }
+        
+        #corp {
+            color: #000000;
+            float: right;
+            font-size: 30px;
+            margin-right: 50%;
+        }
+        
+        a:hover {
+            color: green;
+            background-color: grey;
+        }
